@@ -1,18 +1,18 @@
 quiz= [{
          "category": "Music",
-         "question": "Who sang the song 'Hit me baby? ",
+         "question": "Who sang the song '21 Guns? ",
          "correct_answer": "3",
          "choice": [
-             "Justin Waka Kinobi", "Nick June", "Haley Smith", "Adele"
+             "Justin Waka Kinobi", "Nick June", "Green Day", "Adele"
             ]
         },
         
         {
          "category": "Music",
-         "question": "Who was the singer for song 'Break it down? ",
+         "question": "Who was the singer for song 'Umbrella? ",
          "correct_answer": "4",
          "choice": [
-             "Waka Kinobi", "Nicky June", "Hals Smitu", "Akon"
+             "Waka Kinobi", "Nicky June", "Hals Smitu", "Rihanna"
             ]
         },
         {
